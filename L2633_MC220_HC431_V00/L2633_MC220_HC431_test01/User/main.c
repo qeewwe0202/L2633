@@ -238,5 +238,6 @@ int main(void)
 	{
 		IWDG_Feeding();
 		HandSet_Handle();
+		IWDG_Feeding();
 	}
 }
